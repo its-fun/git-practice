@@ -1,0 +1,7 @@
+# swap files
+*~
+*.swap
+*.swp
+
+# need to be removed
+*.txt
